@@ -1,0 +1,42 @@
+.gamestres{
+    content: "";
+    box-sizing: border-box;
+    background: white;
+    border-radius: 1rem;
+    display: inline-block;
+    border-radius: 1rem solid black;
+    border: solid;
+
+   
+    
+    }
+
+    .capatres{
+       
+        border-radius: 1rem;
+        background: fixed, white;
+        width: 200px;
+        height: 310px;
+        margin: 2rem;
+        border: 3px solid #850e0e;
+        
+
+    }
+
+.codtres{
+    font-size: 40px;
+    background: white;
+    text-align: center;
+  
+}
+.titletres{
+    
+    font-size: 40px;
+    background: black;
+    color: white;
+    text-align: center;
+    border-radius: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+

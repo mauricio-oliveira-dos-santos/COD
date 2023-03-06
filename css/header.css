@@ -1,0 +1,12 @@
+.header .title{
+    color: white;
+    background: black;
+    border-radius: 1rem;
+        border: 3px solid rgb(241, 169, 60);
+    text-align: center;
+    height: auto;
+    font-size: 100px;
+    margin: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
